@@ -1,4 +1,5 @@
 ![20210428_092626](https://user-images.githubusercontent.com/83184525/116802699-554bce80-aaeb-11eb-932d-67efc2478a1a.png)
+isso já faz muito tempo tlgd eu tava aprendendo foi um bep trote em geralkkkkkkj
 # under-ddos @bydeathlxncer
 pkg install git
 
